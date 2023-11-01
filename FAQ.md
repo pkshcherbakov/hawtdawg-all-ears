@@ -1,0 +1,1 @@
+This is faq for hawtdaug app.
